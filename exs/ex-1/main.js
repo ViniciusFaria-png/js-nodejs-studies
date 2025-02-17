@@ -16,11 +16,11 @@ console.log(fullName);
 let herName = "Joana";
 let herAge = 54;
 
-console.log(`${herName} tem ${herAge} anos`)
+console.log(`${herName} is ${herAge} years old`)
 
 herAge = 55;
 
-console.log(`${herName} tem ${herAge} anos`)
+console.log(`${herName} is ${herAge} years old`)
 
 var hisAge = 34
 let myAge = 24
@@ -38,7 +38,7 @@ console.log(itsAge);
 let isRaining = false;
 
 if(isRaining == true){
-    console.log("Esta chovendo, leve um guarda-chuva");
+    console.log("It's raining, take your umbrella");
 } else {
-    console.log("Nao esta chovendo, nao precisa levar um guarda-chuva")
+    console.log("It's not raining, you don't need to take your umbrella")
 }
